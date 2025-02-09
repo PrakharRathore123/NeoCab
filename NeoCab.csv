@@ -1,0 +1,501 @@
+Date,Time,Booking_ID,Booking_Status,Customer_ID,Vehicle_Type,Pickup_Location,Drop_Location,Avg_VTAT,Avg_CTAT,Reason_for_Canceling,Booking_Value,Ride_Distance,Driver_Ratings,Customer_Rating
+06-01-2024,16:15,CNR1272104293,Success,CUST31373,Auto,MG Road,Basaveshwaranagar,4.13,5.37,N/A,838,13.01,3.5,4.8
+31-01-2024,00:15,CNR1492696577,Success,CUST73493,Mini,Sarjapur Road,Chamrajpet,3.69,2.99,N/A,570,8.33,4.8,4
+26-01-2024,02:00,CNR6779126504,Success,CUST73949,Prime Plus,Mysore Road,RR Nagar,9.47,13.41,N/A,543,7.55,4,4.4
+07-01-2024,04:15,CNR1877904502,Canceled by Driver,CUST53725,eBike,Hennur,Lalbagh,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+31-01-2024,14:45,CNR5235707198,Success,CUST74635,Prime Sedan,Frazer Town,Basavanagudi,4.86,5.78,N/A,558,4.8,4.2,4.8
+06-01-2024,03:00,CNR1798605437,Success,CUST30226,Prime Sedan,Vijayanagar,Magadi Road,6.77,4.83,N/A,759,5.12,4.6,3.9
+08-01-2024,07:45,CNR6397259572,Success,CUST39849,Auto,Bommanahalli,Lalbagh,2.22,4.85,N/A,298,12.84,3.7,3.6
+30-01-2024,16:15,CNR4813783843,Canceled by Driver,CUST87544,Bike,RR Nagar,Kalyan Nagar,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+08-01-2024,19:15,CNR7279683699,Canceled by Driver,CUST49045,Prime Plus,Cunningham Road,Ulsoor,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+14-01-2024,16:00,CNR4526501767,Incomplete Ride,CUST17430,Bike,Cunningham Road,Yeshwanthpur,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+31-01-2024,20:30,CNR1962455956,Canceled by Driver,CUST59828,Prime Sedan,Cunningham Road,Kamakshipalya,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+19-01-2024,06:45,CNR5759001457,Success,CUST36158,Prime SUV,Mysore Road,Rajajinagar,9.13,5.71,N/A,684,11.47,4.4,4.6
+30-01-2024,07:45,CNR2647722573,Success,CUST39226,eBike,Marathahalli,Nagavara,6.43,7.01,N/A,343,6.36,4.3,4.4
+13-01-2024,22:30,CNR6120128144,Incomplete Ride,CUST14449,Prime Plus,Banashankari,Bellandur,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+17-01-2024,18:45,CNR5539344329,Success,CUST39313,Auto,Jayanagar,Mysore Road,5,6.9,N/A,273,7.71,4.7,4.6
+13-01-2024,10:45,CNR1934590668,Success,CUST49357,Bike,Hulimavu,Cunningham Road,8.01,12.21,N/A,642,5.98,4.3,3.8
+18-01-2024,10:30,CNR8424069604,Success,CUST37973,Prime Sedan,Bommanahalli,Nagavara,3.63,3.37,N/A,477,14.99,4.6,4.5
+11-01-2024,10:15,CNR3710903608,Success,CUST29361,Bike,Basaveshwaranagar,Malleshwaram,2.81,6.88,N/A,241,11.47,4,4.7
+20-01-2024,19:15,CNR2559141371,Success,CUST85022,Prime Sedan,Dasarahalli,Koramangala,9.44,10.01,N/A,1202,10.23,4.1,4.7
+05-01-2024,22:15,CNR7896094812,Success,CUST98466,Bike,HSR Layout,Yelahanka,9.35,3.14,N/A,898,10.8,4.9,3.6
+03-01-2024,14:30,CNR1742209369,Success,CUST26914,Bike,Hebbal,Rajajinagar,9.74,14.26,N/A,961,13.57,3.6,3.8
+18-01-2024,03:45,CNR2863213116,Success,CUST84130,Bike,Magadi Road,Sadashivanagar,2.1,3.47,N/A,999,5.71,3.6,4.6
+18-01-2024,18:45,CNR8511990707,Canceled by Driver,CUST90999,eBike,Marathahalli,Frazer Town,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+01-01-2024,22:15,CNR4752450714,Success,CUST37186,Auto,Jayanagar,Vijayanagar,4.42,13.86,N/A,289,9.03,4.3,3.6
+11-01-2024,01:45,CNR4385082964,Incomplete Ride,CUST92577,Prime SUV,Hulimavu,Basaveshwaranagar,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+19-01-2024,06:15,CNR3581421719,Success,CUST14689,Auto,Magadi Road,Anand Nagar,5.93,8.67,N/A,874,4.5,4.6,3.9
+29-01-2024,15:15,CNR6828338800,Success,CUST73366,Auto,Hebbal,Kalyan Nagar,3.34,13.47,N/A,484,12.37,4.1,4.4
+01-01-2024,20:30,CNR8333473979,Success,CUST56188,Mini,Anand Nagar,Whitefield,4.88,5.04,N/A,238,13.27,3.8,3.9
+18-01-2024,08:30,CNR4542209503,Success,CUST77673,eBike,Basavanagudi,Ramamurthy Nagar,8.16,11.78,N/A,399,12.2,4.9,3.6
+02-01-2024,12:30,CNR2753220260,Success,CUST25210,Bike,Vijayanagar,Jayanagar,2.3,13.72,N/A,179,12.67,4.4,3.6
+25-01-2024,18:30,CNR8660582710,Success,CUST58999,Auto,Ramamurthy Nagar,Yeshwanthpur,3.88,3.69,N/A,981,14.8,4.3,4.7
+30-01-2024,00:30,CNR2258202704,Canceled by Driver,CUST81247,Prime Sedan,Anand Nagar,Cunningham Road,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+23-01-2024,08:00,CNR3684380673,Incomplete Ride,CUST10329,Prime Plus,JP Nagar,Hulimavu,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+21-01-2024,06:15,CNR6536159139,Success,CUST89751,Prime SUV,Hebbal,Lalbagh,2.85,6.92,N/A,1470,13.63,3.7,4.8
+30-01-2024,06:30,CNR8849060609,Success,CUST50680,Auto,Ramamurthy Nagar,RR Nagar,3.22,4.64,N/A,347,10.21,3.6,3.5
+02-01-2024,15:00,CNR2913106457,Success,CUST97964,Bike,Shivajinagar,Jayanagar,5.21,6.42,N/A,347,8.93,4.4,4.4
+04-01-2024,23:45,CNR1553729493,Success,CUST32132,Prime Plus,Magadi Road,Nagavara,6.44,11.84,N/A,357,10.88,4.2,4.5
+01-01-2024,23:45,CNR1392373211,Incomplete Ride,CUST87861,Prime Sedan,Hennur,Basavanagudi,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+02-01-2024,18:30,CNR8207044011,Success,CUST50036,Prime Sedan,Sarjapur Road,Cunningham Road,6.53,14.53,N/A,516,13.52,3.6,4.6
+10-01-2024,20:45,CNR3239120764,Success,CUST96592,Auto,Kamakshipalya,Yelahanka,8.85,14.35,N/A,464,4.17,3.5,4.4
+24-01-2024,04:30,CNR9336508761,Success,CUST69800,Prime SUV,Electronic City,Anand Nagar,8.49,12.18,N/A,477,4.6,4.9,3.9
+09-01-2024,05:30,CNR1658506016,Canceled by Customer,CUST51661,Prime SUV,Richmond Town,Ramamurthy Nagar,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+01-01-2024,08:00,CNR6688459353,Success,CUST54246,Prime SUV,Sarjapur Road,Majestic,8.95,5.35,N/A,334,2.48,4.1,4.1
+22-01-2024,02:15,CNR9276331382,Success,CUST16499,Bike,Yelahanka,Kaggadasapura,9.31,10.67,N/A,382,3.2,4.2,3.8
+10-01-2024,06:45,CNR9053264308,Success,CUST72045,Auto,Marathahalli,Vijayanagar,3.13,10,N/A,912,14.04,3.9,4.1
+09-01-2024,20:30,CNR8744197317,Incomplete Ride,CUST37337,Prime Plus,Kalyan Nagar,RR Nagar,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+01-01-2024,07:00,CNR2749194017,Success,CUST76078,Mini,Kengeri,Hebbal,9.3,10.1,N/A,238,3.83,3.9,4.5
+12-01-2024,23:30,CNR7491060607,Success,CUST62346,Mini,Koramangala,Frazer Town,7.03,12.2,N/A,1128,7.91,4.6,4.8
+06-01-2024,04:15,CNR5671556548,Success,CUST94047,Mini,Bannerghatta Road,Hulimavu,5.82,14.63,N/A,918,12.4,3.8,3.9
+02-01-2024,18:45,CNR9789829456,Success,CUST44774,Bike,Hulimavu,Lalbagh,7.13,14.47,N/A,196,11.67,4.6,3.8
+22-01-2024,01:00,CNR2957492848,Success,CUST89167,Prime SUV,Domlur,Cunningham Road,5.09,3.48,N/A,175,13.03,4,3.9
+03-01-2024,18:15,CNR8922556367,Success,CUST92510,Prime SUV,KR Puram,Bommanahalli,7.02,13.36,N/A,454,9.18,4.7,4.2
+15-01-2024,08:30,CNR3998448211,Canceled by Driver,CUST13930,eBike,Mysore Road,BTM Layout,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+01-01-2024,20:30,CNR9733037755,Canceled by Driver,CUST76969,Prime Plus,Banashankari,Malleshwaram,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+05-01-2024,13:45,CNR4637183588,Canceled by Driver,CUST91364,Mini,Whitefield,Ulsoor,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+11-01-2024,17:00,CNR3690861089,Success,CUST76580,eBike,Magadi Road,Nagavara,6.21,6.6,N/A,168,13.41,4.1,4.8
+16-01-2024,07:45,CNR7550446408,Incomplete Ride,CUST71977,eBike,Shivajinagar,Kaggadasapura,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+29-01-2024,08:15,CNR3965126724,Success,CUST61086,Prime SUV,Ramamurthy Nagar,Mysore Road,2.06,7.48,N/A,258,6.63,5,4.4
+22-01-2024,21:45,CNR6552939607,Incomplete Ride,CUST40294,eBike,Bannerghatta Road,Horamavu,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+06-01-2024,21:15,CNR3935294490,Success,CUST55488,Bike,Shivajinagar,RR Nagar,7.11,12.74,N/A,850,12.51,3.8,4.5
+17-01-2024,16:45,CNR2473728955,Success,CUST23084,Mini,Shivajinagar,KR Puram,5.22,9.62,N/A,318,3.02,3.9,4
+07-01-2024,19:30,CNR3144886798,Success,CUST47311,Mini,Kengeri,KR Puram,4.74,4.95,N/A,1997,6.55,4.6,4.1
+22-01-2024,05:45,CNR1304084256,Success,CUST88250,eBike,Majestic,Nagavara,5.02,7.84,N/A,304,4.67,4.5,4.9
+03-01-2024,20:00,CNR3430906300,Canceled by Driver,CUST71987,Prime SUV,Hulimavu,Sadashivanagar,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+07-01-2024,04:00,CNR4397802577,Success,CUST58442,Mini,Magadi Road,JP Nagar,7.42,11.92,N/A,550,3.82,4.5,4.9
+06-01-2024,02:15,CNR1185489701,Success,CUST91957,Prime Plus,Marathahalli,Horamavu,5.97,14.24,N/A,829,13.8,4.5,3.6
+27-01-2024,19:00,CNR1753948923,Success,CUST72183,Mini,Jayanagar,Peenya,4.53,5.78,N/A,775,9.54,4.9,4.6
+06-01-2024,01:45,CNR2614954637,Success,CUST12255,eBike,Hulimavu,KR Puram,2.65,11.76,N/A,1448,11.07,4.2,3.6
+19-01-2024,17:00,CNR4213667142,Success,CUST22077,Prime Plus,Marathahalli,Whitefield,3.57,3.25,N/A,798,10.8,3.7,4.9
+13-01-2024,07:45,CNR5748728442,Canceled by Driver,CUST69936,Auto,Hennur,Basaveshwaranagar,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+15-01-2024,20:45,CNR6857478910,Success,CUST38595,Auto,BTM Layout,Sarjapur Road,7.65,8.05,N/A,965,3.79,3.5,4.8
+05-01-2024,01:45,CNR7415843591,Canceled by Driver,CUST78043,Mini,Chamrajpet,Cunningham Road,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+19-01-2024,09:30,CNR2585627659,Success,CUST34810,Bike,Domlur,Mysore Road,7.64,5.73,N/A,877,10.69,4.2,4.3
+04-01-2024,20:30,CNR7580417250,Success,CUST49326,Prime Sedan,Ramamurthy Nagar,Mysore Road,7.45,14.38,N/A,429,11.1,4.2,3.6
+22-01-2024,12:15,CNR1171101458,Success,CUST54574,eBike,Whitefield,Kamakshipalya,4.93,7.74,N/A,255,5.2,4.4,3.7
+13-01-2024,14:45,CNR7729360312,Success,CUST73109,Prime Plus,Malleshwaram,Indiranagar,2.81,3.98,N/A,1320,13.02,4.6,4.8
+09-01-2024,03:15,CNR8796092274,Success,CUST64672,Prime SUV,Kengeri,Hulimavu,8.28,4.97,N/A,298,12.65,4.6,4
+13-01-2024,10:30,CNR5578336510,Canceled by Driver,CUST95727,Bike,Bommanahalli,Peenya,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+09-01-2024,03:00,CNR2761565448,Success,CUST89824,Auto,Ulsoor,Kaggadasapura,3.87,2.49,N/A,380,5.88,3.6,3.7
+08-01-2024,13:45,CNR3562994359,Canceled by Customer,CUST80525,Prime SUV,Hebbal,Domlur,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+29-01-2024,16:00,CNR2150825691,Canceled by Driver,CUST12226,Prime Plus,Malleshwaram,Magadi Road,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+10-01-2024,11:00,CNR1815763827,Incomplete Ride,CUST44678,Prime SUV,Hebbal,Bommanahalli,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+28-01-2024,14:00,CNR9284273397,Success,CUST31029,Auto,HSR Layout,Mysore Road,5.42,10.33,N/A,853,9.64,3.9,4.3
+15-01-2024,07:30,CNR8926989590,Success,CUST19955,Auto,Dasarahalli,KR Puram,4.11,10.81,N/A,924,12.71,5,4.8
+08-01-2024,07:45,CNR4325709694,Success,CUST82228,Auto,Sadashivanagar,Shivajinagar,6.98,7.98,N/A,299,12.67,4.1,3.9
+08-01-2024,00:45,CNR5567155836,Success,CUST39806,Auto,Bommanahalli,Mysore Road,5.37,13.13,N/A,427,6.91,4.8,3.5
+11-01-2024,11:00,CNR9919355138,Canceled by Driver,CUST62689,Bike,Peenya,Lalbagh,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+18-01-2024,11:30,CNR2335887164,Success,CUST96053,eBike,Cunningham Road,Hulimavu,7.72,12.79,N/A,460,13.47,3.5,4.6
+11-01-2024,05:00,CNR5213970561,Canceled by Driver,CUST14275,Bike,Hebbal,Vijayanagar,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+10-01-2024,07:15,CNR8111728695,Success,CUST50517,Prime SUV,Frazer Town,Lalbagh,2.32,2.32,N/A,350,2.39,4.2,5
+24-01-2024,13:15,CNR5600275336,Canceled by Driver,CUST84638,Mini,BTM Layout,Hebbal,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+26-01-2024,01:45,CNR4976053588,Success,CUST12646,Prime Plus,Kaggadasapura,KR Puram,2.81,12.73,N/A,1027,2.95,5,4.4
+16-01-2024,09:00,CNR4904650559,Canceled by Driver,CUST58889,Prime Plus,Ulsoor,BTM Layout,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+04-01-2024,16:30,CNR4734301939,Success,CUST28974,Auto,Mysore Road,Peenya,8.03,6.3,N/A,353,13.68,4.8,4.5
+11-01-2024,04:15,CNR1947479442,Success,CUST52698,eBike,Kengeri,Malleshwaram,2.93,9.37,N/A,269,7.77,3.5,3.9
+20-01-2024,00:15,CNR8360899967,Success,CUST32364,Bike,Ulsoor,Ramamurthy Nagar,6.36,6.17,N/A,926,12.21,4.8,4.5
+26-01-2024,02:30,CNR5439930893,Success,CUST55440,Mini,Basavanagudi,Bannerghatta Road,6.68,10.4,N/A,884,8.8,4.8,4.7
+17-01-2024,05:15,CNR9961300811,Success,CUST47251,Mini,Ulsoor,Horamavu,2.7,6.47,N/A,565,14.57,4.9,4.6
+09-01-2024,11:00,CNR8415490921,Success,CUST19172,Prime SUV,Jayanagar,Frazer Town,4.73,7.56,N/A,341,2.14,3.8,4.4
+02-01-2024,08:15,CNR4787762427,Incomplete Ride,CUST93662,Auto,Yeshwanthpur,Bellandur,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+18-01-2024,22:30,CNR7934634805,Success,CUST74839,Prime SUV,Yelahanka,Bannerghatta Road,9.71,9.19,N/A,655,10.03,4.9,4.4
+31-01-2024,07:00,CNR7333944567,Success,CUST75084,Auto,Hulimavu,Domlur,4.57,3.31,N/A,342,7.33,3.7,4.4
+02-01-2024,13:15,CNR6436296791,Success,CUST67090,Mini,Anand Nagar,Richmond Town,3.62,4.35,N/A,487,9.03,4.9,4
+20-01-2024,16:45,CNR6781467983,Incomplete Ride,CUST55086,Auto,Indiranagar,Whitefield,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+12-01-2024,16:15,CNR4866231948,Success,CUST25788,Mini,Kengeri,Shivajinagar,9.65,6.75,N/A,1937,2.3,4.2,4
+04-01-2024,20:30,CNR4502137311,Success,CUST46054,Prime Sedan,Peenya,Kaggadasapura,3.68,11.02,N/A,330,2.4,4.8,4.1
+29-01-2024,15:15,CNR2255002955,Success,CUST48909,Prime Sedan,JP Nagar,Kalyan Nagar,8.36,2.62,N/A,946,11.65,4.6,4.3
+28-01-2024,00:00,CNR4871817063,Canceled by Driver,CUST18174,Auto,Kaggadasapura,BTM Layout,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+02-01-2024,05:30,CNR6931335617,Success,CUST68147,Auto,Anand Nagar,Frazer Town,5.7,12.45,N/A,288,9.07,4.4,4.8
+23-01-2024,18:15,CNR1973128313,Success,CUST42165,Bike,Domlur,Yeshwanthpur,8.05,6.01,N/A,243,12.33,4.3,3.9
+30-01-2024,11:30,CNR2572495775,Success,CUST77637,Mini,Peenya,Rajajinagar,2.96,9.59,N/A,700,13.61,4.9,4.5
+22-01-2024,12:30,CNR3528132106,Success,CUST30520,Auto,Kengeri,Domlur,9.06,3.22,N/A,522,3.7,4.8,4.3
+14-01-2024,19:15,CNR1449691790,Success,CUST64919,eBike,Frazer Town,Peenya,7.58,7.1,N/A,924,13.46,4.7,3.6
+06-01-2024,23:00,CNR5570592042,Success,CUST19568,Prime Plus,Kamakshipalya,BTM Layout,2.7,10.12,N/A,660,9.51,4.1,4.1
+30-01-2024,05:30,CNR2353168548,Success,CUST47402,Prime Plus,Majestic,Peenya,5.1,2.79,N/A,306,14.34,3.9,4.5
+03-01-2024,07:45,CNR2894957833,Success,CUST36588,Prime Plus,Sarjapur Road,Frazer Town,8.57,4.3,N/A,321,9.81,3.8,4.8
+25-01-2024,07:30,CNR8666924214,Canceled by Driver,CUST36776,Prime Sedan,Domlur,Banashankari,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+25-01-2024,09:00,CNR1850285995,Success,CUST90603,Prime SUV,Magadi Road,Dasarahalli,6.03,11.08,N/A,902,4.7,5,4.5
+24-01-2024,14:15,CNR2126836403,Success,CUST75698,Bike,Domlur,Electronic City,5.66,5.15,N/A,176,14.45,4,3.8
+15-01-2024,04:30,CNR1748090246,Success,CUST64132,Mini,Bannerghatta Road,Kamakshipalya,3.81,6.24,N/A,495,6.92,4.5,4.4
+05-01-2024,16:00,CNR1478700160,Success,CUST59406,eBike,Horamavu,Majestic,3.54,7.51,N/A,789,12.72,4.5,3.6
+26-01-2024,02:15,CNR4579927460,Success,CUST47799,Prime SUV,Whitefield,Chamrajpet,5.08,6.15,N/A,625,14.44,4.6,4.8
+04-01-2024,14:45,CNR3026640649,Success,CUST94267,Mini,Bellandur,Magadi Road,4,7.96,N/A,485,2.33,4.7,4.2
+08-01-2024,11:30,CNR8196943202,Success,CUST40482,Prime Sedan,Yeshwanthpur,Ramamurthy Nagar,3.84,13.52,N/A,244,6.66,3.7,4.6
+13-01-2024,00:30,CNR8038143677,Canceled by Driver,CUST60885,Prime Plus,Bellandur,Ramamurthy Nagar,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+20-01-2024,11:30,CNR5585962706,Incomplete Ride,CUST86223,Auto,Kengeri,Shivajinagar,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+15-01-2024,16:30,CNR2154339978,Success,CUST26050,Prime Plus,Dasarahalli,Yelahanka,8.63,8.65,N/A,206,4.48,4.5,3.5
+14-01-2024,17:45,CNR8915413291,Success,CUST95578,Prime Plus,Mysore Road,Basavanagudi,8.13,5.76,N/A,783,10.59,4.2,3.7
+20-01-2024,06:15,CNR8730059950,Canceled by Driver,CUST42787,Prime Plus,Domlur,KR Puram,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+29-01-2024,02:15,CNR7851445886,Incomplete Ride,CUST36967,Prime SUV,Shivajinagar,Frazer Town,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+07-01-2024,08:00,CNR1436908252,Success,CUST21359,Mini,Sarjapur Road,Hennur,6.92,9.34,N/A,651,6.34,4.3,3.8
+30-01-2024,01:30,CNR3502132107,Success,CUST84198,Prime SUV,Sadashivanagar,Lalbagh,7.74,2.4,N/A,122,4.6,4.1,4.9
+29-01-2024,05:30,CNR2941658166,Success,CUST39597,Mini,Indiranagar,Whitefield,7.59,5.25,N/A,250,4.44,4.2,4.7
+09-01-2024,12:15,CNR9466544512,Canceled by Driver,CUST35985,Prime Plus,Hennur,Nagavara,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+03-01-2024,13:30,CNR3362302195,Success,CUST10446,Prime Sedan,Kaggadasapura,Hulimavu,9.41,2.59,N/A,173,5.36,4.5,4.6
+31-01-2024,23:45,CNR4537727525,Success,CUST50713,eBike,Yelahanka,Rajajinagar,7.32,12.61,N/A,570,2.35,3.9,4.4
+06-01-2024,15:15,CNR1270413038,Success,CUST73232,Prime Sedan,Basaveshwaranagar,Hulimavu,8.49,2.32,N/A,511,8.23,4.3,4.6
+15-01-2024,03:15,CNR2715947730,Success,CUST99949,Auto,MG Road,Ulsoor,6.93,11.91,N/A,1392,8.62,4.3,3.9
+16-01-2024,11:30,CNR1507546165,Success,CUST99197,Prime Sedan,Horamavu,Frazer Town,7.57,4.04,N/A,522,7.98,3.9,4.6
+09-01-2024,12:30,CNR7637490878,Success,CUST51287,Prime Sedan,BTM Layout,Electronic City,7.57,13.98,N/A,137,3.93,4.6,4.5
+01-01-2024,05:15,CNR5183979009,Canceled by Driver,CUST54430,Bike,Jayanagar,RR Nagar,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+02-01-2024,16:15,CNR5321072425,Incomplete Ride,CUST68141,Prime Sedan,Nagavara,Bommanahalli,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+07-01-2024,11:30,CNR2921971671,Success,CUST66163,Auto,Peenya,Marathahalli,5.78,5.65,N/A,568,4.32,3.6,4.5
+09-01-2024,14:30,CNR1024448056,Canceled by Driver,CUST57909,Mini,Shivajinagar,Bommanahalli,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+03-01-2024,10:15,CNR7481370611,Success,CUST85068,Bike,Lalbagh,Ramamurthy Nagar,7.02,8.16,N/A,166,3.83,4.9,4.2
+31-01-2024,23:45,CNR9472933429,Canceled by Customer,CUST48777,Prime SUV,Kalyan Nagar,MG Road,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+18-01-2024,23:15,CNR2587860931,Incomplete Ride,CUST51663,Prime Sedan,BTM Layout,Cunningham Road,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+20-01-2024,11:45,CNR9657434514,Success,CUST31222,eBike,Kamakshipalya,Magadi Road,9.7,13.44,N/A,517,9.81,5,4.7
+30-01-2024,03:30,CNR7728060426,Success,CUST93597,Bike,Anand Nagar,Lalbagh,2.53,7.12,N/A,289,6.95,4.1,4
+09-01-2024,06:45,CNR5585521497,Canceled by Customer,CUST95007,Auto,Rajajinagar,BTM Layout,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+14-01-2024,06:45,CNR2465509714,Success,CUST94419,Prime Sedan,Frazer Town,Domlur,6.17,11,N/A,1760,5.05,3.9,4.5
+25-01-2024,18:15,CNR9806844806,Canceled by Driver,CUST90082,Auto,Majestic,RR Nagar,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+11-01-2024,06:15,CNR9876802433,Canceled by Driver,CUST80373,Prime Plus,Shivajinagar,Dasarahalli,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+24-01-2024,09:00,CNR7261976419,Success,CUST55197,Prime Plus,Sadashivanagar,Nagavara,5.69,7.18,N/A,747,7.54,3.7,4
+29-01-2024,00:15,CNR8476621831,Canceled by Customer,CUST20500,Mini,Brigade Road,Horamavu,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+27-01-2024,03:00,CNR3113909324,Canceled by Driver,CUST23318,eBike,Shivajinagar,Koramangala,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+10-01-2024,23:45,CNR1801427131,Success,CUST69759,Mini,Basaveshwaranagar,Vijayanagar,6.43,12.78,N/A,262,11.28,4.5,4.7
+02-01-2024,00:00,CNR1288509497,Success,CUST73531,Prime SUV,Yelahanka,Frazer Town,8.9,4.49,N/A,873,9.23,4.4,3.6
+06-01-2024,12:30,CNR8208480767,Success,CUST29284,eBike,Malleshwaram,BTM Layout,7.81,7.5,N/A,1857,3.73,4.6,4.7
+06-01-2024,15:00,CNR7792798342,Success,CUST51718,eBike,Banashankari,Domlur,8.41,8.02,N/A,647,5.42,4.3,4.2
+24-01-2024,20:15,CNR2173480470,Canceled by Customer,CUST63152,Prime SUV,Kamakshipalya,RR Nagar,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+06-01-2024,03:15,CNR3369169083,Success,CUST49586,Prime Plus,Basavanagudi,Domlur,2.03,9.26,N/A,1727,4.34,4.7,4.7
+10-01-2024,22:45,CNR9764521439,Canceled by Driver,CUST84734,Mini,Hebbal,Electronic City,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+16-01-2024,12:45,CNR6899320311,Success,CUST67868,Prime Sedan,Malleshwaram,MG Road,8.83,12.79,N/A,324,7.88,4.4,3.6
+05-01-2024,22:00,CNR7674529424,Canceled by Driver,CUST81535,Prime Sedan,Whitefield,Lalbagh,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+22-01-2024,16:15,CNR5582807652,Incomplete Ride,CUST51725,eBike,HSR Layout,KR Puram,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+11-01-2024,17:15,CNR7708978797,Canceled by Driver,CUST11770,eBike,Majestic,Nagavara,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+14-01-2024,17:15,CNR5384443167,Success,CUST97352,Mini,Peenya,Hennur,4.12,9.07,N/A,547,14.76,4,4.7
+31-01-2024,04:00,CNR9564005985,Success,CUST87864,Prime Plus,Hulimavu,Kalyan Nagar,5.12,7.97,N/A,201,14.8,4.3,3.6
+19-01-2024,10:30,CNR5553782398,Success,CUST96322,Prime Sedan,Electronic City,Chamrajpet,7.42,4.39,N/A,1950,2.18,3.6,3.6
+06-01-2024,21:30,CNR1714294194,Success,CUST19398,Prime SUV,Sarjapur Road,Kaggadasapura,2.04,5.23,N/A,886,12.81,4.1,3.6
+27-01-2024,17:15,CNR4856018855,Incomplete Ride,CUST30265,Prime Sedan,Bellandur,Mysore Road,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+19-01-2024,20:15,CNR8744992882,Success,CUST14228,Prime SUV,HSR Layout,Yelahanka,5.76,13.83,N/A,1160,7.82,4.5,4.7
+15-01-2024,04:30,CNR4388847505,Success,CUST49581,Bike,Mysore Road,Lalbagh,2.83,7.08,N/A,100,14.5,3.8,4.3
+17-01-2024,08:30,CNR6874299935,Success,CUST71876,Bike,Bommanahalli,Cunningham Road,6.42,3.13,N/A,1243,2.23,4.7,4.8
+06-01-2024,22:45,CNR7552836865,Success,CUST24395,eBike,Shivajinagar,Dasarahalli,4.72,10.29,N/A,718,6.63,4.5,5
+22-01-2024,23:30,CNR1481891345,Canceled by Driver,CUST29741,Prime SUV,Kengeri,Ramamurthy Nagar,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+14-01-2024,07:00,CNR3556576250,Success,CUST58538,Prime Plus,Domlur,Frazer Town,5.34,11.88,N/A,525,14,4.8,4.3
+13-01-2024,06:45,CNR8869966165,Success,CUST46796,Prime Plus,Vijayanagar,Richmond Town,2.22,11.07,N/A,1308,9.61,4.6,4.4
+16-01-2024,23:45,CNR8060453938,Incomplete Ride,CUST87009,Auto,Kalyan Nagar,Marathahalli,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+24-01-2024,07:15,CNR4038557737,Success,CUST29222,Mini,Majestic,Kamakshipalya,9.32,9.98,N/A,324,14.76,4.1,4.1
+21-01-2024,18:30,CNR5543185445,Canceled by Driver,CUST11958,Mini,Malleshwaram,Ramamurthy Nagar,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+06-01-2024,07:45,CNR2538401949,Success,CUST41620,Auto,HSR Layout,Banashankari,4.12,13.97,N/A,616,8.94,4.4,5
+22-01-2024,17:00,CNR6836658465,Canceled by Driver,CUST21618,eBike,Bommanahalli,Malleshwaram,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+19-01-2024,01:45,CNR4007345339,Success,CUST48548,Prime SUV,Electronic City,KR Puram,6.66,14.4,N/A,680,13.27,3.9,3.6
+20-01-2024,05:30,CNR4185334088,Canceled by Driver,CUST66969,Auto,Hulimavu,JP Nagar,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+24-01-2024,23:30,CNR5459519798,Success,CUST29593,Prime Plus,Sadashivanagar,Cunningham Road,2.66,14.73,N/A,610,2.93,4.5,4.3
+20-01-2024,13:45,CNR9588352107,Success,CUST68770,Mini,Banashankari,Magadi Road,8.89,7.62,N/A,995,11.21,4.2,4.7
+27-01-2024,16:00,CNR5186188031,Success,CUST11879,Bike,JP Nagar,Richmond Town,9.46,6.72,N/A,1610,14.11,3.7,3.6
+11-01-2024,00:15,CNR3866720151,Success,CUST29974,Prime Plus,Frazer Town,Shivajinagar,5.2,8.72,N/A,1528,14.25,3.8,4.1
+20-01-2024,11:30,CNR1193591098,Success,CUST78797,Prime SUV,Nagavara,Frazer Town,6.11,11.7,N/A,515,12.43,4.7,3.9
+14-01-2024,15:45,CNR3512324064,Success,CUST41799,Prime SUV,Majestic,Kengeri,4.81,10.3,N/A,867,7.94,4.6,4.8
+05-01-2024,15:00,CNR5840228160,Canceled by Customer,CUST47099,eBike,Dasarahalli,Kaggadasapura,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+20-01-2024,20:45,CNR7596684933,Success,CUST83744,Prime Plus,Kamakshipalya,Magadi Road,8.38,9.06,N/A,915,3.72,4.9,4.6
+16-01-2024,01:15,CNR1000248023,Success,CUST49420,Prime Sedan,Rajajinagar,Koramangala,10,3.98,N/A,184,9.66,4.7,3.9
+28-01-2024,07:45,CNR1332222532,Success,CUST91810,Auto,Yeshwanthpur,Kamakshipalya,8.5,6.33,N/A,1323,13.11,4.2,4.4
+07-01-2024,08:45,CNR1056472912,Incomplete Ride,CUST61826,eBike,Sadashivanagar,Frazer Town,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+17-01-2024,01:30,CNR5566730906,Success,CUST52727,Bike,Horamavu,Domlur,3.79,13.26,N/A,713,8.64,4.2,4.1
+24-01-2024,20:15,CNR3517089049,Success,CUST22959,Prime Plus,JP Nagar,Yeshwanthpur,6.62,11.76,N/A,488,9.04,4.6,4.3
+05-01-2024,04:45,CNR2575215631,Canceled by Driver,CUST17705,Prime SUV,Bannerghatta Road,Whitefield,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+30-01-2024,01:15,CNR7719534296,Incomplete Ride,CUST68591,Auto,Mysore Road,Nagavara,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+14-01-2024,02:15,CNR4028336185,Success,CUST44044,Bike,Whitefield,JP Nagar,5.54,2.9,N/A,1592,5.29,3.7,4.4
+22-01-2024,17:00,CNR9128857145,Canceled by Driver,CUST50222,eBike,Domlur,Magadi Road,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+09-01-2024,14:45,CNR8234575896,Canceled by Driver,CUST98040,Auto,JP Nagar,MG Road,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+26-01-2024,21:30,CNR5659128982,Incomplete Ride,CUST85765,Prime Sedan,Nagavara,Horamavu,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+14-01-2024,17:00,CNR2222271102,Success,CUST50644,Prime Sedan,Mysore Road,KR Puram,7.33,3.63,N/A,522,8.31,4.6,4.6
+06-01-2024,16:00,CNR6359587168,Success,CUST93004,Prime SUV,Chamrajpet,Rajajinagar,5.76,11.09,N/A,539,5.69,3.8,4.1
+07-01-2024,03:45,CNR6068188550,Success,CUST54600,Auto,Rajajinagar,Koramangala,9.33,12.99,N/A,865,6.61,4,4.9
+17-01-2024,22:30,CNR8881310017,Incomplete Ride,CUST80560,Mini,Malleshwaram,Peenya,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+23-01-2024,15:15,CNR8592067962,Success,CUST12200,Mini,KR Puram,BTM Layout,7.37,13.04,N/A,923,12.18,4.7,5
+04-01-2024,17:15,CNR7495745918,Success,CUST87197,Bike,Frazer Town,Ramamurthy Nagar,9.1,11.12,N/A,788,13.93,4,4.2
+05-01-2024,13:00,CNR9946124650,Success,CUST59172,Prime Sedan,Domlur,Electronic City,9.07,6.14,N/A,890,6.84,4.3,4
+22-01-2024,02:00,CNR1542775234,Success,CUST58855,Prime Plus,Richmond Town,Bellandur,4.2,3.03,N/A,165,11.81,3.6,3.7
+04-01-2024,07:45,CNR9708845365,Success,CUST87782,Prime Sedan,Chamrajpet,Malleshwaram,8.82,11.85,N/A,512,9.83,3.6,3.6
+28-01-2024,20:15,CNR2452758320,Canceled by Driver,CUST23632,Bike,Peenya,Frazer Town,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+07-01-2024,04:00,CNR3988288626,Success,CUST28986,Prime SUV,KR Puram,Ulsoor,7.29,11.03,N/A,924,11.11,3.6,4.7
+27-01-2024,02:00,CNR3716463877,Success,CUST15852,eBike,Magadi Road,Ulsoor,7.25,11.4,N/A,1337,11.15,3.6,4.6
+09-01-2024,11:15,CNR7616102170,Success,CUST12929,Auto,Marathahalli,Ulsoor,9.09,4.76,N/A,126,3.4,4.2,4.3
+31-01-2024,09:30,CNR9583413807,Canceled by Customer,CUST27860,Auto,Whitefield,Frazer Town,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+20-01-2024,21:15,CNR6036595466,Success,CUST83282,Prime Sedan,Whitefield,Sadashivanagar,3,3.59,N/A,860,6.96,4.1,3.9
+23-01-2024,07:15,CNR3600561924,Success,CUST40380,eBike,Sadashivanagar,Magadi Road,5.26,3.12,N/A,529,8.15,4.7,4.8
+10-01-2024,10:15,CNR7832862208,Success,CUST12575,Prime Plus,Bellandur,Kalyan Nagar,6.4,12.9,N/A,405,14.73,4.8,4.2
+09-01-2024,15:45,CNR3267869285,Canceled by Driver,CUST85768,Prime Plus,Jayanagar,KR Puram,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+21-01-2024,12:45,CNR3472689624,Success,CUST41202,Prime Sedan,Kamakshipalya,Whitefield,3.59,12.67,N/A,1614,13.87,3.6,4.6
+27-01-2024,04:00,CNR3591355404,Success,CUST29279,Prime SUV,Richmond Town,Dasarahalli,2.11,5.84,N/A,1353,2.8,4.1,4.8
+19-01-2024,02:30,CNR3269749652,Canceled by Driver,CUST58998,Prime Sedan,Sarjapur Road,Dasarahalli,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+08-01-2024,12:45,CNR3299863605,Success,CUST87315,eBike,Hennur,Majestic,5.78,14.87,N/A,506,12.31,3.7,4.9
+03-01-2024,08:15,CNR2205265957,Success,CUST85284,Bike,Horamavu,Rajajinagar,3.45,6.38,N/A,152,13.44,3.8,4.3
+08-01-2024,01:30,CNR2918116347,Canceled by Driver,CUST57455,Bike,JP Nagar,Kamakshipalya,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+07-01-2024,12:30,CNR8103096560,Canceled by Customer,CUST30887,eBike,Koramangala,Electronic City,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+25-01-2024,16:15,CNR9245200554,Canceled by Driver,CUST37157,Bike,MG Road,Banashankari,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+04-01-2024,14:00,CNR3196274254,Success,CUST75927,Prime SUV,Malleshwaram,Richmond Town,8.76,14.95,N/A,370,11.79,4,3.8
+18-01-2024,16:00,CNR4851917687,Success,CUST27971,Prime Sedan,Brigade Road,MG Road,6.29,10.5,N/A,988,13.25,4.8,3.6
+02-01-2024,12:30,CNR5745776374,Success,CUST60446,eBike,Ramamurthy Nagar,Cunningham Road,9.89,14.56,N/A,311,4.93,3.5,4.9
+13-01-2024,17:00,CNR9609000647,Canceled by Driver,CUST59504,eBike,Ulsoor,Horamavu,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+13-01-2024,22:15,CNR3215525821,Success,CUST63386,Prime Sedan,Dasarahalli,Banashankari,4.94,10.41,N/A,916,12.39,3.7,4.2
+10-01-2024,02:45,CNR5423754557,Canceled by Driver,CUST99622,Mini,Vijayanagar,Kalyan Nagar,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+09-01-2024,23:30,CNR7580404139,Success,CUST70857,Prime SUV,KR Puram,Whitefield,3.6,7.76,N/A,448,3.13,3.5,3.7
+13-01-2024,21:00,CNR8786146801,Success,CUST16754,Mini,Hebbal,Majestic,6.63,8.17,N/A,614,2.27,3.8,3.9
+05-01-2024,03:00,CNR6487288503,Success,CUST51625,Auto,Anand Nagar,Malleshwaram,5.21,12.33,N/A,740,3.04,4.6,4.5
+25-01-2024,20:45,CNR5097883159,Success,CUST71371,Bike,Chamrajpet,Sadashivanagar,7.76,9.4,N/A,266,2.54,3.8,3.9
+23-01-2024,06:45,CNR1869025642,Success,CUST92260,Prime SUV,Basaveshwaranagar,Kaggadasapura,3.03,3.66,N/A,444,9.84,4.5,4.6
+09-01-2024,06:45,CNR4121268931,Success,CUST32261,Prime SUV,Bellandur,Basavanagudi,7.75,5.96,N/A,282,6.78,4,4.7
+06-01-2024,10:45,CNR7614788137,Success,CUST56003,Auto,Electronic City,Anand Nagar,6.75,4.23,N/A,1226,5.84,3.9,4.5
+04-01-2024,13:00,CNR8793149565,Canceled by Customer,CUST32133,Prime SUV,Bommanahalli,Shivajinagar,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+01-01-2024,10:30,CNR7641801749,Success,CUST82279,Prime Plus,Sarjapur Road,Indiranagar,9.38,6.24,N/A,163,6.18,4.4,3.8
+13-01-2024,04:00,CNR3159571972,Success,CUST84581,Prime Plus,Banashankari,Basaveshwaranagar,6.83,2.87,N/A,771,11.22,4.3,4.9
+18-01-2024,06:45,CNR7613778019,Canceled by Driver,CUST40327,Mini,Rajajinagar,Vijayanagar,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+30-01-2024,02:15,CNR3525465193,Success,CUST99384,Auto,Indiranagar,Majestic,7.34,8.08,N/A,964,4.59,4.3,3.8
+17-01-2024,11:45,CNR6572785046,Success,CUST11202,Mini,Horamavu,Anand Nagar,9.59,14.13,N/A,342,2.77,3.5,4.2
+24-01-2024,10:45,CNR8898832857,Success,CUST74196,Bike,Basaveshwaranagar,JP Nagar,9.28,12.72,N/A,256,9.36,4.5,4.5
+20-01-2024,00:45,CNR8475282209,Success,CUST30562,Prime SUV,Chamrajpet,MG Road,8.8,7.6,N/A,842,8.67,3.5,3.5
+26-01-2024,06:30,CNR9919646962,Success,CUST77179,Prime Plus,Majestic,Ulsoor,3.8,12.81,N/A,1603,3.8,4.6,3.7
+11-01-2024,04:00,CNR5663360457,Success,CUST65836,Mini,Chamrajpet,Frazer Town,6.02,9.42,N/A,366,9.66,3.7,4.6
+23-01-2024,19:45,CNR3280760996,Success,CUST82472,Prime Sedan,Shivajinagar,Magadi Road,2.46,12.26,N/A,735,6.82,4.2,4.1
+11-01-2024,06:45,CNR9653102048,Success,CUST54268,eBike,Basavanagudi,Sarjapur Road,8.46,10.39,N/A,201,8.73,4.1,3.7
+28-01-2024,14:30,CNR5632758289,Success,CUST37953,Prime Plus,Banashankari,Brigade Road,7.21,10.28,N/A,984,9.09,5,4.1
+09-01-2024,06:30,CNR2054472879,Canceled by Driver,CUST33050,Bike,Marathahalli,Indiranagar,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+18-01-2024,21:15,CNR8130315511,Success,CUST90777,eBike,Lalbagh,Bannerghatta Road,6.87,13.73,N/A,242,5.71,3.8,4.3
+10-01-2024,11:15,CNR7161388325,Success,CUST98359,eBike,Sarjapur Road,Yeshwanthpur,7.12,4.86,N/A,736,8.21,3.9,3.9
+19-01-2024,16:00,CNR9364883650,Success,CUST60368,Auto,Banashankari,Bannerghatta Road,8.42,10.1,N/A,1326,4.18,4.1,4.8
+05-01-2024,09:00,CNR3426501654,Success,CUST38840,Mini,Cunningham Road,Brigade Road,3.75,5.05,N/A,928,13.36,3.9,4.4
+28-01-2024,06:00,CNR2338712999,Success,CUST15743,Prime Plus,Chamrajpet,Horamavu,5.89,8.76,N/A,876,8.12,4.1,4.6
+03-01-2024,02:00,CNR7578394661,Success,CUST24351,Prime Sedan,Sarjapur Road,HSR Layout,5.56,10.04,N/A,686,3.87,3.9,4.7
+10-01-2024,21:45,CNR6400742240,Success,CUST89624,Prime Sedan,Whitefield,Richmond Town,2.05,4.67,N/A,650,2.06,4.1,4.2
+16-01-2024,04:45,CNR2225712142,Canceled by Driver,CUST18292,Bike,Mysore Road,Malleshwaram,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+21-01-2024,07:45,CNR8565554784,Canceled by Driver,CUST88513,Mini,Malleshwaram,Kamakshipalya,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+04-01-2024,23:30,CNR6986898436,Success,CUST28570,Prime Sedan,Whitefield,Lalbagh,6.99,9.03,N/A,467,11.95,3.9,4.6
+17-01-2024,11:30,CNR8083556657,Canceled by Driver,CUST17974,Prime Plus,Bannerghatta Road,Richmond Town,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+21-01-2024,02:00,CNR6597533129,Success,CUST65718,Prime Sedan,BTM Layout,Basaveshwaranagar,8.75,7.36,N/A,1350,2.66,3.5,4.4
+12-01-2024,07:00,CNR6978083441,Success,CUST43671,Prime Sedan,Shivajinagar,Majestic,9.63,14.45,N/A,1262,10.14,3.6,4.7
+31-01-2024,20:00,CNR6744982588,Success,CUST89043,Prime Plus,Mysore Road,Magadi Road,5.48,14.18,N/A,443,11.18,4.7,4
+01-01-2024,21:45,CNR9888181835,Success,CUST68065,eBike,RR Nagar,Bannerghatta Road,6.25,3.07,N/A,258,7.2,3.6,4.5
+11-01-2024,17:15,CNR5178010178,Success,CUST28581,Prime SUV,Kaggadasapura,Chamrajpet,2.73,14.06,N/A,358,8.99,3.9,4.3
+31-01-2024,13:00,CNR2918534834,Canceled by Driver,CUST10560,Mini,Frazer Town,Shivajinagar,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+09-01-2024,14:45,CNR6927513700,Canceled by Driver,CUST62554,Prime SUV,Malleshwaram,Indiranagar,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+12-01-2024,21:00,CNR3512371864,Canceled by Driver,CUST20881,Prime SUV,Cunningham Road,BTM Layout,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+27-01-2024,21:00,CNR5547108155,Canceled by Customer,CUST91719,Prime Plus,Sarjapur Road,Richmond Town,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+28-01-2024,11:15,CNR7327486432,Canceled by Driver,CUST92701,Prime Sedan,Whitefield,Koramangala,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+04-01-2024,21:30,CNR1089246521,Success,CUST53929,Prime Plus,Bellandur,Whitefield,4.02,10.12,N/A,573,5.42,4.1,4.5
+04-01-2024,16:45,CNR7521265285,Success,CUST42047,Prime Plus,Sadashivanagar,RR Nagar,9.78,13.02,N/A,468,14.37,4.8,4.1
+25-01-2024,04:00,CNR5090967734,Success,CUST29602,eBike,Banashankari,MG Road,5.6,12.08,N/A,468,11.44,4,4.9
+19-01-2024,00:00,CNR3579798006,Success,CUST84170,Prime Sedan,Richmond Town,Lalbagh,7.73,11.45,N/A,989,4.18,3.9,3.7
+21-01-2024,06:00,CNR2173245888,Success,CUST75652,Mini,Indiranagar,Horamavu,5.29,7.26,N/A,522,13.67,3.9,3.9
+18-01-2024,17:00,CNR2897835208,Incomplete Ride,CUST66427,Bike,Lalbagh,Bellandur,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+15-01-2024,00:00,CNR1047773467,Canceled by Driver,CUST49200,Bike,JP Nagar,Electronic City,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+04-01-2024,22:30,CNR1342555533,Success,CUST65483,Prime Sedan,Lalbagh,MG Road,2.65,14.45,N/A,369,14.22,4.6,4.6
+20-01-2024,01:15,CNR1072329108,Success,CUST52192,eBike,Cunningham Road,Majestic,8.63,8.82,N/A,652,14.27,3.6,4.6
+19-01-2024,17:15,CNR2523172629,Canceled by Customer,CUST12532,Auto,Peenya,Kamakshipalya,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+11-01-2024,14:30,CNR6679623250,Success,CUST32735,Auto,Richmond Town,Ulsoor,7.87,8.16,N/A,934,10.6,4.6,4.8
+08-01-2024,11:45,CNR5463131062,Success,CUST28520,Bike,Kalyan Nagar,Whitefield,7.98,3.07,N/A,445,7.48,4.3,4.3
+14-01-2024,15:30,CNR1513080991,Canceled by Customer,CUST17995,Auto,Yelahanka,Sadashivanagar,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+25-01-2024,01:30,CNR8230214802,Incomplete Ride,CUST66013,Prime Plus,Yelahanka,Malleshwaram,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+23-01-2024,06:30,CNR4476520559,Success,CUST30390,Prime SUV,Whitefield,Banashankari,2.64,11.06,N/A,512,13.63,4.5,4.8
+07-01-2024,18:30,CNR5427024728,Incomplete Ride,CUST34372,Auto,Electronic City,KR Puram,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+31-01-2024,02:15,CNR5772295227,Canceled by Customer,CUST30998,Prime Sedan,MG Road,Yeshwanthpur,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+21-01-2024,07:45,CNR7112584444,Canceled by Driver,CUST51941,Prime SUV,Chamrajpet,Basaveshwaranagar,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+01-01-2024,14:30,CNR7478644875,Success,CUST79271,Mini,Basavanagudi,Sarjapur Road,6.78,5.9,N/A,995,7.13,4,5
+24-01-2024,22:00,CNR1833452970,Success,CUST67648,Mini,Magadi Road,KR Puram,9.01,12.25,N/A,126,5.86,4.6,4.4
+12-01-2024,01:15,CNR4004332897,Canceled by Driver,CUST92306,Prime Sedan,Peenya,Basavanagudi,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+28-01-2024,02:30,CNR8410197393,Success,CUST70594,Bike,Kengeri,Nagavara,7.34,4.25,N/A,1038,10.54,4.7,4.2
+31-01-2024,07:30,CNR2537192245,Success,CUST50811,eBike,MG Road,Shivajinagar,5.45,5.51,N/A,606,2.14,4.7,4.8
+01-01-2024,06:15,CNR4666636056,Canceled by Driver,CUST84874,Prime Sedan,Hennur,BTM Layout,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+19-01-2024,12:30,CNR2990831131,Success,CUST38288,eBike,Brigade Road,Sarjapur Road,5.5,11.81,N/A,1850,14.78,4.7,3.8
+19-01-2024,15:30,CNR5329296073,Success,CUST43916,Prime SUV,Basavanagudi,Mysore Road,4.08,3.6,N/A,1880,9.76,4.5,4.5
+09-01-2024,22:15,CNR3250807640,Success,CUST16179,Prime Plus,Kalyan Nagar,Domlur,5.87,2.91,N/A,324,12.58,3.9,3.8
+30-01-2024,16:15,CNR7622500717,Incomplete Ride,CUST77023,Prime SUV,Chamrajpet,Jayanagar,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+27-01-2024,08:30,CNR5069557986,Canceled by Driver,CUST82434,eBike,Lalbagh,Bommanahalli,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+27-01-2024,00:45,CNR2045671667,Success,CUST50621,Prime Sedan,Bommanahalli,Bellandur,8.08,9.8,N/A,797,11.81,4.2,3.6
+10-01-2024,03:45,CNR1290999640,Success,CUST95213,Auto,Brigade Road,Marathahalli,2.56,6.16,N/A,508,4.82,4.9,4.5
+09-01-2024,13:30,CNR2173104020,Canceled by Driver,CUST19903,Auto,HSR Layout,JP Nagar,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+10-01-2024,03:45,CNR5744741651,Canceled by Driver,CUST83116,Bike,Brigade Road,Hennur,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+09-01-2024,00:15,CNR6903637808,Success,CUST72913,Mini,Magadi Road,Lalbagh,8.13,12.19,N/A,493,7.48,4.4,5
+02-01-2024,01:30,CNR5589212870,Canceled by Driver,CUST17208,Prime Sedan,Majestic,Marathahalli,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+20-01-2024,16:45,CNR9910409782,Success,CUST85104,eBike,Yeshwanthpur,Ulsoor,9.52,12.09,N/A,1789,4.4,4.6,3.9
+20-01-2024,11:00,CNR8718653158,Success,CUST76124,Mini,JP Nagar,MG Road,3.51,5.62,N/A,674,13.64,3.6,4.7
+21-01-2024,21:00,CNR8403513805,Success,CUST88463,Prime Sedan,Lalbagh,HSR Layout,4.79,10.29,N/A,713,9.29,4.4,4.3
+21-01-2024,11:45,CNR2525969285,Success,CUST95957,Prime Plus,Hulimavu,Hebbal,7.62,10.69,N/A,1520,3.29,5,4.7
+13-01-2024,08:30,CNR2184721643,Success,CUST75828,Bike,Kamakshipalya,Kengeri,7.71,12.62,N/A,1420,5.45,4.6,4.1
+13-01-2024,00:15,CNR7827002514,Success,CUST38640,Mini,KR Puram,Ulsoor,8.2,14.26,N/A,712,13.02,4.2,4.3
+14-01-2024,17:45,CNR9839264124,Success,CUST38080,eBike,Rajajinagar,Hennur,2.15,10.63,N/A,900,6.05,3.6,5
+12-01-2024,22:00,CNR6747875695,Success,CUST97367,Bike,Domlur,Mysore Road,6,6.66,N/A,1811,11.3,4.4,4.1
+04-01-2024,14:45,CNR2379129662,Incomplete Ride,CUST16007,Auto,Chamrajpet,Brigade Road,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+01-01-2024,23:00,CNR6301998811,Incomplete Ride,CUST36051,Prime SUV,KR Puram,HSR Layout,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+21-01-2024,01:45,CNR7238888337,Success,CUST70146,eBike,Hebbal,Dasarahalli,5.27,5.95,N/A,965,5.76,3.9,4.8
+22-01-2024,21:00,CNR5815630341,Success,CUST53837,eBike,Banashankari,Electronic City,8.19,11.77,N/A,170,6.94,4.9,4.9
+24-01-2024,15:30,CNR1518862335,Canceled by Driver,CUST12108,eBike,JP Nagar,Kaggadasapura,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+29-01-2024,01:15,CNR9809021940,Success,CUST12862,Mini,Ulsoor,Cunningham Road,6.87,6.06,N/A,366,10.53,3.7,3.9
+03-01-2024,04:45,CNR8388517876,Success,CUST48630,Prime SUV,Mysore Road,Chamrajpet,5.37,3.34,N/A,781,9.17,3.7,5
+30-01-2024,00:45,CNR1576129634,Success,CUST95817,eBike,JP Nagar,Kamakshipalya,2.66,8.46,N/A,189,13.89,3.6,3.8
+10-01-2024,20:30,CNR2248700705,Success,CUST87669,Auto,Malleshwaram,Shivajinagar,3.54,5.7,N/A,1655,11.45,5,4.7
+19-01-2024,16:00,CNR5340880008,Success,CUST84554,Prime Plus,Ulsoor,Brigade Road,9.12,7.29,N/A,978,7.17,3.7,4
+21-01-2024,14:15,CNR1785453493,Success,CUST87705,Mini,Rajajinagar,Hennur,6.19,2.3,N/A,1233,3.92,4.8,4.2
+16-01-2024,09:00,CNR9277194209,Canceled by Customer,CUST13781,eBike,Majestic,Sarjapur Road,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+03-01-2024,23:00,CNR3607116216,Success,CUST51802,Mini,Rajajinagar,Hebbal,6.84,13.78,N/A,1083,3.53,3.7,4.2
+12-01-2024,04:30,CNR1280178413,Canceled by Driver,CUST67730,Mini,Kamakshipalya,Koramangala,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+16-01-2024,11:15,CNR2937094060,Success,CUST91642,Prime Sedan,Hulimavu,Cunningham Road,4.23,11.19,N/A,279,4.08,4.9,3.7
+30-01-2024,15:15,CNR7086340172,Success,CUST38979,Prime SUV,RR Nagar,Majestic,5.09,13.32,N/A,573,5.1,3.6,3.5
+21-01-2024,16:30,CNR6165322322,Success,CUST86800,Prime SUV,Banashankari,RR Nagar,5.45,10.13,N/A,756,7.17,3.8,3.7
+21-01-2024,06:00,CNR8440940836,Canceled by Driver,CUST31794,Prime Plus,KR Puram,Sadashivanagar,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+11-01-2024,19:00,CNR7156519436,Canceled by Driver,CUST39245,Prime Plus,Rajajinagar,Horamavu,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+18-01-2024,12:30,CNR8578024304,Success,CUST72930,Bike,Shivajinagar,Rajajinagar,6.1,4.74,N/A,1856,6.18,4.9,4.4
+27-01-2024,05:15,CNR9101375454,Canceled by Driver,CUST24464,Prime Plus,Banashankari,Lalbagh,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+04-01-2024,00:30,CNR9490587051,Incomplete Ride,CUST53026,Prime Sedan,Domlur,Hulimavu,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+21-01-2024,21:00,CNR5214455216,Canceled by Driver,CUST22840,eBike,Sarjapur Road,Bommanahalli,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+21-01-2024,05:30,CNR3004821533,Success,CUST10543,Auto,Malleshwaram,Marathahalli,8.6,11.57,N/A,793,12.46,3.9,4.7
+18-01-2024,04:00,CNR5819080397,Success,CUST61622,Auto,RR Nagar,Vijayanagar,8.27,12.67,N/A,920,8.65,3.5,4.3
+14-01-2024,22:30,CNR4203348630,Canceled by Driver,CUST81465,eBike,Dasarahalli,Electronic City,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+27-01-2024,06:15,CNR3682809659,Success,CUST86618,Prime SUV,Marathahalli,Whitefield,6.8,4.36,N/A,803,9.78,4.4,4.3
+17-01-2024,22:45,CNR9323671389,Canceled by Driver,CUST88347,Prime Plus,Bellandur,Basaveshwaranagar,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+10-01-2024,23:00,CNR9210905245,Canceled by Customer,CUST30703,Mini,Bellandur,Banashankari,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+23-01-2024,12:00,CNR5607336990,Success,CUST33696,Prime Plus,Kamakshipalya,Anand Nagar,3.92,10.43,N/A,386,8.53,4,4.5
+31-01-2024,03:15,CNR5084947288,Success,CUST16141,Prime SUV,Marathahalli,Yeshwanthpur,3.84,3.27,N/A,169,9.52,4.5,4.7
+02-01-2024,04:30,CNR2342362449,Canceled by Driver,CUST64005,Prime Plus,Basavanagudi,Yelahanka,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+13-01-2024,08:15,CNR7429438767,Success,CUST16972,Prime Plus,Basavanagudi,Magadi Road,8.41,13.83,N/A,834,10.61,3.6,4
+06-01-2024,23:00,CNR5108249080,Success,CUST66471,Prime SUV,Lalbagh,Magadi Road,8.77,11.99,N/A,589,5.15,4.8,4.7
+21-01-2024,08:15,CNR2504169399,Success,CUST72626,Prime Plus,Banashankari,Lalbagh,2.05,8.89,N/A,699,5.75,3.6,4.1
+07-01-2024,12:15,CNR7061564431,Incomplete Ride,CUST53611,Prime SUV,Vijayanagar,BTM Layout,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+30-01-2024,11:00,CNR5856379684,Success,CUST17816,Prime Sedan,Cunningham Road,BTM Layout,6.2,2.45,N/A,309,7.3,3.8,4.1
+05-01-2024,13:15,CNR5743285151,Success,CUST68222,Prime Plus,Ramamurthy Nagar,Rajajinagar,3.64,4.65,N/A,821,12.69,4.5,4.2
+09-01-2024,02:45,CNR3045049093,Success,CUST43400,Bike,Anand Nagar,Malleshwaram,8.46,10.96,N/A,267,6.47,4.4,4.5
+28-01-2024,20:30,CNR7545486900,Success,CUST28918,Mini,Majestic,Bommanahalli,7.16,5.57,N/A,643,12.02,4.9,4.2
+02-01-2024,14:00,CNR8991526840,Success,CUST29317,Prime SUV,Hennur,Marathahalli,6.66,6.58,N/A,492,8.82,4.3,4.2
+26-01-2024,05:00,CNR4004427879,Success,CUST78826,Auto,Marathahalli,Sarjapur Road,4.73,6.45,N/A,612,12.51,4.8,4.6
+12-01-2024,16:00,CNR1297141683,Success,CUST19042,Mini,Banashankari,Ramamurthy Nagar,9.74,14.66,N/A,918,3.07,4.4,4.7
+07-01-2024,01:30,CNR7217818130,Success,CUST31055,Prime Plus,Jayanagar,Rajajinagar,8.39,6.77,N/A,1513,2.15,4.2,4.5
+03-01-2024,13:45,CNR4462149565,Canceled by Driver,CUST24316,Bike,Brigade Road,Yeshwanthpur,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+19-01-2024,21:45,CNR5757878774,Canceled by Driver,CUST33553,Prime Sedan,Hulimavu,Whitefield,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+29-01-2024,10:30,CNR8103684985,Canceled by Driver,CUST36347,eBike,Cunningham Road,Whitefield,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+21-01-2024,20:00,CNR6207821807,Success,CUST24705,Bike,Koramangala,Cunningham Road,9.95,8.06,N/A,704,5.51,4.1,3.9
+14-01-2024,08:00,CNR4306311325,Canceled by Customer,CUST41937,eBike,Cunningham Road,Hulimavu,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+28-01-2024,21:15,CNR1715354110,Success,CUST33454,Mini,Rajajinagar,Kaggadasapura,2.94,14.34,N/A,1322,8.05,4.3,4.1
+02-01-2024,02:30,CNR1223943245,Success,CUST46916,Prime Plus,Horamavu,Nagavara,4.65,5.21,N/A,533,2.97,4.8,4.1
+10-01-2024,02:45,CNR1259907082,Canceled by Customer,CUST47578,Prime Sedan,Marathahalli,Whitefield,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+08-01-2024,06:30,CNR9519357096,Success,CUST65108,Mini,Chamrajpet,Kalyan Nagar,5.33,11.76,N/A,922,8.16,3.7,4.8
+20-01-2024,15:45,CNR2009923525,Success,CUST48227,Mini,Malleshwaram,KR Puram,6.3,3.97,N/A,720,12.64,4.6,4.8
+30-01-2024,21:15,CNR8875706386,Success,CUST71137,eBike,Magadi Road,Sadashivanagar,9.15,13.99,N/A,131,11.71,3.8,4.3
+12-01-2024,04:00,CNR9700905587,Success,CUST98574,Prime Sedan,Yeshwanthpur,Basaveshwaranagar,2.74,3.4,N/A,779,9.77,4.6,4
+21-01-2024,08:00,CNR3599254746,Success,CUST29474,Prime Plus,Frazer Town,Majestic,7.73,4.57,N/A,869,8.27,4,4.6
+13-01-2024,04:45,CNR3653595099,Success,CUST42978,eBike,Hulimavu,Yeshwanthpur,6.63,12.5,N/A,1020,7.91,4.5,4.3
+10-01-2024,03:00,CNR5001860129,Canceled by Driver,CUST90455,Prime Sedan,KR Puram,Hulimavu,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+10-01-2024,02:15,CNR7435414607,Success,CUST34726,Prime Sedan,Jayanagar,Brigade Road,2.48,9.83,N/A,573,10.55,4,3.7
+31-01-2024,13:00,CNR7960182196,Success,CUST92282,Prime SUV,MG Road,KR Puram,3.67,14.15,N/A,385,6.79,4.8,3.9
+24-01-2024,18:00,CNR7233987691,Canceled by Customer,CUST36445,Prime Sedan,Hennur,MG Road,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+10-01-2024,00:15,CNR9510763272,Success,CUST21388,Mini,Malleshwaram,Brigade Road,9.47,7.84,N/A,541,3.71,4.4,4.2
+31-01-2024,02:15,CNR5462822875,Success,CUST72716,Prime Plus,Ramamurthy Nagar,Brigade Road,5.82,13.97,N/A,424,11.92,4.1,5
+29-01-2024,06:00,CNR1458371774,Success,CUST30979,Mini,Magadi Road,Indiranagar,4.25,9.39,N/A,395,3.11,4.1,3.5
+11-01-2024,05:00,CNR3202693950,Success,CUST96076,Prime SUV,Hulimavu,Jayanagar,2.93,4.92,N/A,448,7.45,3.8,3.9
+28-01-2024,15:15,CNR3856181939,Canceled by Driver,CUST68963,Mini,Basaveshwaranagar,Electronic City,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+19-01-2024,13:00,CNR8105016304,Success,CUST57553,Prime Plus,Horamavu,Lalbagh,4.04,6.04,N/A,763,9.12,4.1,4.8
+23-01-2024,04:45,CNR4322709752,Success,CUST72453,Prime SUV,Kaggadasapura,Ulsoor,9.95,8.44,N/A,625,9.68,4.9,4.4
+02-01-2024,14:00,CNR7563239330,Success,CUST85998,Mini,Marathahalli,Basavanagudi,3.68,6.84,N/A,602,14.16,4.6,5
+07-01-2024,05:30,CNR7662888358,Success,CUST83216,Prime Sedan,BTM Layout,Hulimavu,9.24,2.45,N/A,538,3.34,4.5,4.2
+22-01-2024,19:15,CNR5101349119,Canceled by Driver,CUST12710,Auto,Brigade Road,BTM Layout,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+26-01-2024,01:00,CNR8771173372,Canceled by Driver,CUST21705,Prime Plus,Basavanagudi,Shivajinagar,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+01-01-2024,18:45,CNR3538456142,Success,CUST86980,Prime SUV,Majestic,Hebbal,8.04,8.45,N/A,155,11.21,3.8,4.1
+03-01-2024,08:15,CNR5225587931,Success,CUST76734,Auto,Magadi Road,Bannerghatta Road,2.03,10.52,N/A,587,8.02,4.4,4.3
+26-01-2024,00:00,CNR2489159354,Success,CUST30174,Prime Sedan,JP Nagar,Hulimavu,4.98,6.38,N/A,1033,9.02,4.3,4.9
+24-01-2024,05:00,CNR3004628667,Canceled by Customer,CUST22796,Prime Plus,Marathahalli,Magadi Road,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+15-01-2024,22:30,CNR3213429747,Success,CUST49373,eBike,JP Nagar,Marathahalli,2.45,3.31,N/A,679,8.55,3.6,3.9
+13-01-2024,14:15,CNR1549602943,Success,CUST28302,Prime SUV,Kalyan Nagar,Domlur,2.41,6.04,N/A,723,6.04,4.4,4.1
+20-01-2024,19:45,CNR8329007207,Canceled by Driver,CUST49024,Prime Plus,Jayanagar,Ulsoor,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+27-01-2024,06:30,CNR8255756320,Success,CUST59197,Mini,Kalyan Nagar,Koramangala,2.4,10.54,N/A,1127,7.03,4.1,4.4
+29-01-2024,17:00,CNR4741424650,Success,CUST93879,Prime Plus,Yeshwanthpur,Hebbal,5.69,14.39,N/A,301,10.33,4.5,4.4
+13-01-2024,19:15,CNR9844546716,Success,CUST73305,Prime Plus,HSR Layout,Chamrajpet,6.04,5.4,N/A,1430,8.23,3.8,4.5
+17-01-2024,07:00,CNR7679736654,Success,CUST70213,eBike,BTM Layout,Hebbal,6.36,7.35,N/A,784,8.18,3.7,4.2
+29-01-2024,01:45,CNR3247868408,Success,CUST35000,Mini,Ramamurthy Nagar,JP Nagar,8.71,14.76,N/A,712,4.81,4.5,4.3
+07-01-2024,14:15,CNR5791912395,Success,CUST98381,Prime SUV,Vijayanagar,Bannerghatta Road,6.55,6.28,N/A,851,12.25,4.8,3.9
+31-01-2024,13:00,CNR3093196954,Success,CUST85415,eBike,Peenya,Majestic,4.24,8.16,N/A,489,4.14,4.2,4.9
+16-01-2024,10:30,CNR9648347245,Success,CUST56752,Bike,Malleshwaram,Koramangala,2.88,3.31,N/A,149,7.46,4.1,4.8
+15-01-2024,03:00,CNR8172121175,Success,CUST66596,Auto,JP Nagar,Peenya,8.74,5.61,N/A,461,14.06,3.9,4.3
+06-01-2024,02:30,CNR7852525214,Success,CUST58561,Prime Plus,Anand Nagar,Mysore Road,4.03,14.8,N/A,1854,4.11,4.8,4.1
+11-01-2024,08:15,CNR8732468105,Success,CUST54415,Prime Plus,Majestic,Hebbal,5.19,13.5,N/A,115,7.98,4.3,4.8
+09-01-2024,19:00,CNR2578981948,Success,CUST16010,eBike,Whitefield,Basavanagudi,3.94,13.02,N/A,206,6.97,4.9,4.3
+21-01-2024,13:30,CNR6903990455,Success,CUST41918,Auto,MG Road,Koramangala,2.71,14.68,N/A,1896,3.97,4.8,4.2
+30-01-2024,18:00,CNR3282955130,Success,CUST56323,Bike,Anand Nagar,Horamavu,2.33,2.92,N/A,155,5.8,4.6,4
+12-01-2024,08:45,CNR6443602442,Success,CUST46172,eBike,Koramangala,Kengeri,5.48,12.55,N/A,904,12.75,3.7,4.6
+16-01-2024,12:00,CNR8365569479,Success,CUST69152,eBike,Magadi Road,Kalyan Nagar,9.42,7.16,N/A,444,10.27,5,3.8
+28-01-2024,16:45,CNR1152091571,Success,CUST34793,Prime Sedan,Dasarahalli,Horamavu,8.27,11.49,N/A,800,3.8,3.8,3.5
+30-01-2024,12:15,CNR4879178385,Success,CUST62569,Prime Sedan,Hulimavu,Hennur,6.64,8.33,N/A,678,3.78,4.4,4.2
+23-01-2024,04:30,CNR1993335501,Incomplete Ride,CUST57282,Mini,Bellandur,Electronic City,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+18-01-2024,21:00,CNR3188809063,Success,CUST63694,Prime Sedan,Malleshwaram,Nagavara,4.48,8.34,N/A,139,14.36,4.8,4.8
+24-01-2024,09:00,CNR1379683113,Success,CUST10818,Prime SUV,BTM Layout,Marathahalli,8.41,2.93,N/A,178,8.19,4.6,4.3
+07-01-2024,03:00,CNR6101407980,Success,CUST63327,Prime Plus,Bommanahalli,Kamakshipalya,5.59,2.43,N/A,1982,8.17,4.3,4.9
+28-01-2024,23:15,CNR7931554954,Success,CUST84296,eBike,Whitefield,MG Road,6.16,6.06,N/A,747,8.15,4.5,4.2
+15-01-2024,03:00,CNR4896724766,Success,CUST20148,Mini,Sadashivanagar,Kaggadasapura,2.76,7.94,N/A,425,3.1,4.1,4.3
+20-01-2024,13:30,CNR2911307905,Success,CUST34429,eBike,Kengeri,Electronic City,6.71,13.93,N/A,1861,10.57,4.8,4.7
+13-01-2024,08:15,CNR2773943549,Canceled by Driver,CUST64453,Prime Sedan,Richmond Town,BTM Layout,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+21-01-2024,01:30,CNR2579056868,Success,CUST94897,Auto,Ramamurthy Nagar,MG Road,4.42,8.5,N/A,1731,7.15,4.5,4.7
+18-01-2024,08:45,CNR3647250330,Canceled by Driver,CUST13666,Mini,Marathahalli,JP Nagar,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+21-01-2024,14:30,CNR7915334066,Success,CUST17257,Prime Plus,Jayanagar,HSR Layout,2.4,8.44,N/A,686,6.33,4.5,3.7
+30-01-2024,05:45,CNR2202043170,Success,CUST30999,eBike,Domlur,Mysore Road,2.5,2.79,N/A,291,13.23,3.6,4.1
+07-01-2024,22:30,CNR5205157565,Success,CUST60171,Mini,Mysore Road,Rajajinagar,3.58,6.43,N/A,1454,7.6,4.8,4.1
+16-01-2024,06:30,CNR1288008295,Canceled by Customer,CUST76948,Bike,JP Nagar,Bommanahalli,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+12-01-2024,16:45,CNR7941351024,Success,CUST15909,Mini,Sarjapur Road,Banashankari,9.55,2.97,N/A,883,2.23,4.6,4.4
+18-01-2024,09:45,CNR4592617817,Success,CUST23743,Prime SUV,Peenya,Frazer Town,2.76,12.07,N/A,407,5.09,4,4.2
+02-01-2024,19:00,CNR7848623545,Success,CUST80427,Prime SUV,Majestic,Kaggadasapura,5.15,13.31,N/A,101,11.45,3.7,4.3
+19-01-2024,19:15,CNR5591489105,Success,CUST34479,Bike,Banashankari,Yeshwanthpur,5.29,3.06,N/A,1822,11.24,4.5,4.9
+12-01-2024,05:00,CNR6527775610,Success,CUST46833,Prime SUV,Indiranagar,Domlur,9.73,4.53,N/A,706,7.65,4.9,5
+15-01-2024,16:45,CNR3354717385,Success,CUST52156,Prime Plus,Basaveshwaranagar,Whitefield,3.43,13.82,N/A,259,11.08,4.8,4.1
+02-01-2024,21:30,CNR5799535180,Canceled by Customer,CUST90392,Prime Sedan,Rajajinagar,Majestic,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+20-01-2024,00:45,CNR1279355128,Success,CUST69047,eBike,Bannerghatta Road,RR Nagar,6.48,7.93,N/A,1609,10.29,4.5,4
+27-01-2024,02:00,CNR9831234948,Success,CUST58865,Auto,Yeshwanthpur,Lalbagh,7.03,2.64,N/A,1336,2.79,4,4.6
+17-01-2024,06:45,CNR6919092692,Success,CUST12488,Bike,Yeshwanthpur,Bannerghatta Road,2.83,7.21,N/A,402,10.43,4.4,4.7
+06-01-2024,23:30,CNR6731789236,Success,CUST72861,Prime Sedan,Malleshwaram,Marathahalli,8.64,3.89,N/A,1769,6.21,4.3,4.5
+06-01-2024,21:30,CNR7998873038,Success,CUST42138,Auto,Bellandur,Magadi Road,4.08,5.13,N/A,1791,13.39,4.1,4.7
+31-01-2024,07:45,CNR5107251757,Canceled by Customer,CUST31638,eBike,HSR Layout,Richmond Town,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+19-01-2024,01:30,CNR4525435126,Incomplete Ride,CUST77583,Prime SUV,Basavanagudi,JP Nagar,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+19-01-2024,08:30,CNR7871638127,Success,CUST72671,Prime Sedan,Richmond Town,Marathahalli,3.66,7.57,N/A,564,13.24,4,4.8
+26-01-2024,06:00,CNR5712077309,Success,CUST92826,Auto,Horamavu,Anand Nagar,2.07,3.17,N/A,904,2.11,3.6,3.6
+15-01-2024,05:30,CNR2850513616,Canceled by Customer,CUST59729,Prime Plus,Sarjapur Road,Vijayanagar,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+22-01-2024,18:15,CNR8690910324,Success,CUST22121,eBike,Vijayanagar,Hebbal,7.6,8.62,N/A,217,4.21,3.6,3.7
+20-01-2024,08:30,CNR9220969596,Success,CUST10787,Auto,HSR Layout,Horamavu,6.73,5.87,N/A,798,8.25,3.7,5
+17-01-2024,00:45,CNR6988998002,Success,CUST97964,Prime SUV,Brigade Road,Bannerghatta Road,5.41,6.8,N/A,1626,11.47,3.8,4.4
+07-01-2024,14:45,CNR6673883769,Canceled by Driver,CUST54717,Prime Plus,Shivajinagar,KR Puram,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+11-01-2024,17:15,CNR8938064673,Success,CUST22800,Prime Sedan,Anand Nagar,Marathahalli,9.86,12.11,N/A,708,11.46,4.6,4.9
+22-01-2024,17:00,CNR5121890618,Success,CUST47503,Mini,Indiranagar,Kengeri,4.64,7.66,N/A,130,8.97,4.2,4.7
+14-01-2024,21:30,CNR9362460579,Canceled by Driver,CUST75759,Bike,Peenya,JP Nagar,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+13-01-2024,20:45,CNR1878161504,Canceled by Driver,CUST83360,Prime SUV,RR Nagar,Anand Nagar,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+26-01-2024,04:00,CNR6621971027,Success,CUST17581,Mini,KR Puram,Chamrajpet,5.79,3.42,N/A,734,4.4,3.6,3.7
+29-01-2024,02:45,CNR3656387892,Success,CUST42971,Prime Plus,Mysore Road,Sadashivanagar,7.48,10.78,N/A,193,6.97,3.6,4.6
+21-01-2024,03:30,CNR7168414934,Success,CUST49734,Prime Sedan,Rajajinagar,Indiranagar,3.97,10.61,N/A,631,8.18,4.1,4
+08-01-2024,12:15,CNR9613595809,Canceled by Customer,CUST75298,eBike,Vijayanagar,Basavanagudi,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+16-01-2024,08:00,CNR2146362832,Success,CUST45705,Mini,Whitefield,Ulsoor,3.03,5.66,N/A,225,10.91,3.9,4.4
+15-01-2024,23:00,CNR9540767443,Success,CUST73051,Bike,Dasarahalli,BTM Layout,5.61,14.13,N/A,476,6.75,4.9,4.9
+04-01-2024,14:45,CNR2842985775,Success,CUST57405,Bike,Marathahalli,Yelahanka,5.73,10.93,N/A,494,7.03,4.9,4.9
+19-01-2024,06:00,CNR5935677946,Canceled by Driver,CUST83617,Mini,Nagavara,Brigade Road,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+07-01-2024,01:15,CNR5539206024,Success,CUST63865,Mini,Kengeri,Sadashivanagar,5.48,14.03,N/A,994,6.2,4.4,3.7
+11-01-2024,21:15,CNR1787115640,Canceled by Driver,CUST92818,Auto,Chamrajpet,Kengeri,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+18-01-2024,20:15,CNR2262354527,Success,CUST49287,Prime Plus,Ramamurthy Nagar,Kalyan Nagar,9.07,11.76,N/A,736,12.35,3.6,3.8
+23-01-2024,08:45,CNR6478830842,Canceled by Driver,CUST34559,Prime SUV,Mysore Road,Ulsoor,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+15-01-2024,18:30,CNR7878201083,Success,CUST68803,Bike,Sarjapur Road,Hulimavu,3.4,2.75,N/A,414,5.37,4.6,4.5
+31-01-2024,16:15,CNR8650326332,Success,CUST35331,Prime Plus,Kalyan Nagar,Malleshwaram,3.25,4.52,N/A,652,5.79,3.8,5
+19-01-2024,14:45,CNR7166653450,Incomplete Ride,CUST98114,Prime Plus,Peenya,Domlur,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+09-01-2024,19:45,CNR8154545616,Success,CUST81514,Auto,Indiranagar,Sadashivanagar,3.96,4.6,N/A,329,8.93,4.5,4.9
+24-01-2024,23:00,CNR5787403572,Canceled by Driver,CUST95622,Auto,Ramamurthy Nagar,HSR Layout,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+27-01-2024,04:45,CNR6242696438,Success,CUST84389,Prime SUV,Yelahanka,Banashankari,7.09,14.77,N/A,1523,2.58,4.1,3.5
+16-01-2024,22:00,CNR9225459935,Success,CUST47042,eBike,Bannerghatta Road,Hennur,4.07,13.92,N/A,137,12.41,4.9,3.8
+31-01-2024,16:45,CNR5856449833,Success,CUST42746,Mini,Mysore Road,Bannerghatta Road,6,10.54,N/A,564,3.93,4.2,4.8
+14-01-2024,09:00,CNR4921585660,Canceled by Customer,CUST84021,Auto,Whitefield,Basaveshwaranagar,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+18-01-2024,05:45,CNR5649073657,Incomplete Ride,CUST28995,Prime Plus,Whitefield,Peenya,N/A,N/A,AC is Not working,N/A,N/A,N/A,N/A
+24-01-2024,11:00,CNR6983429641,Success,CUST13461,Mini,Brigade Road,Anand Nagar,5.37,10.19,N/A,161,13.81,4.1,4
+15-01-2024,04:30,CNR5356745663,Success,CUST85466,Prime Plus,Jayanagar,Rajajinagar,3.2,9.86,N/A,204,12.08,4.4,4.4
+31-01-2024,01:15,CNR6520648409,Success,CUST85096,Mini,Horamavu,Vijayanagar,6.14,6.28,N/A,893,10.12,3.9,4.5
+20-01-2024,03:45,CNR4198386050,Incomplete Ride,CUST48507,Mini,Horamavu,Hennur,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+04-01-2024,06:15,CNR4065988165,Success,CUST65056,Prime Plus,Brigade Road,Kengeri,6.15,7.51,N/A,661,10.97,3.5,4.9
+11-01-2024,11:30,CNR4787081040,Canceled by Driver,CUST61839,Mini,Kamakshipalya,Nagavara,N/A,N/A,Change of plan,N/A,N/A,N/A,N/A
+14-01-2024,14:30,CNR7712129651,Success,CUST56778,Bike,HSR Layout,Basavanagudi,9.43,13.55,N/A,1661,3.54,3.8,4.4
+09-01-2024,05:00,CNR1280939488,Canceled by Driver,CUST60364,Mini,Yelahanka,Whitefield,N/A,N/A,Driver asked to cancel,N/A,N/A,N/A,N/A
+30-01-2024,03:00,CNR6649510865,Success,CUST11017,Prime SUV,Sarjapur Road,Basaveshwaranagar,3.09,5.12,N/A,207,3.68,3.6,4.7
+10-01-2024,13:45,CNR4101669787,Success,CUST76319,eBike,Electronic City,Sadashivanagar,4.83,7.96,N/A,347,14.69,4.2,3.8
+13-01-2024,22:30,CNR8995473934,Success,CUST72127,eBike,Indiranagar,Majestic,3.1,2.08,N/A,968,12.86,4.4,4.4
+21-01-2024,00:45,CNR3109469723,Canceled by Driver,CUST87939,Prime Plus,Indiranagar,Frazer Town,N/A,N/A,Other Issue,N/A,N/A,N/A,N/A
+18-01-2024,08:45,CNR1504162239,Success,CUST91159,Prime Plus,Magadi Road,Richmond Town,9.09,8.38,N/A,787,3.07,5,4.9
+15-01-2024,07:30,CNR3153231390,Success,CUST27809,Prime Plus,Dasarahalli,Bannerghatta Road,2.62,2.52,N/A,320,6.5,4.3,4.8
+06-01-2024,12:30,CNR4447207820,Success,CUST56294,eBike,Peenya,Rajajinagar,2.77,13.31,N/A,617,14.28,3.9,4.2
+30-01-2024,23:45,CNR3853047450,Canceled by Driver,CUST66354,Bike,Bommanahalli,Horamavu,N/A,N/A,Driver is not moving towards pickup location,N/A,N/A,N/A,N/A
+21-01-2024,09:00,CNR2626434088,Success,CUST74066,Prime SUV,Bannerghatta Road,Mysore Road,2.81,7.26,N/A,535,8.06,3.7,4.9
+30-01-2024,20:45,CNR7161870831,Success,CUST57288,Mini,RR Nagar,Kamakshipalya,5.33,13.87,N/A,213,13.28,4.5,4.7
+08-01-2024,02:45,CNR8328874669,Success,CUST84788,Bike,Mysore Road,Basaveshwaranagar,9.88,4.32,N/A,642,14.87,3.6,4.3
